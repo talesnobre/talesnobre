@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Undergrad Data Science and Artificial Intelligence student - UFPB<br>Member at TAIL - Technology and Artificial Intelligence League<br>I'm currently working on Turmalina (TCE-PB)
 
 
