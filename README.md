@@ -32,5 +32,13 @@ I'm <b/>brazilian</b> and was born in <b/>João Pessoa</b>. </p>
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=talesnobre&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+<h3 align="center"/> :mailbox: How to Contact Me </h3>
+
+<p align="center"/>
+<a href="https://www.canva.com/design/DAFzIIFA-zw/UkfIhqUPXLp3ta8KhWZ7Pw/view?utm_content=DAFzIIFA-zw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" target="_blank" rel="noreferrer"/> <img src="https://www.svgrepo.com/show/281753/curriculum.svg" alt="curriculum vitae" width="50" height="50"/> </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tales.nobre@academico.ufpb.br" target="_blank" rel="noreferrer"/> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="45" height="50"/> </a> 
+<a href="https://www.linkedin.com/in/talesnobre" target="_blank" rel="noreferrer"/> <img src="https://files.brandlogos.net/svg/PjKl3aKXeF/linkedin-logo-59098z38_brandlogos.net.svg" alt="linkedin" width="50" height="50" /> </a> 
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=talesnobre&icon=6&color=4)](https://visitcount.itsvg.in)
