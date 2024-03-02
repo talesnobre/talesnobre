@@ -17,7 +17,7 @@ I'm <b/>brazilian</b> and was born in <b/>João Pessoa</b>. </p>
   
 <p align="left"/>Researcher at <a href="https://aria.ci.ufpb.br/en/">ARIA<a> (ARtificial Intelligence Applications laboratory). </p>
   
-<p align="left"/> <a href="https://tce.pb.gov.br/">TCE-PB<a>: Full Stack Web Developer intern (May 2022 - Actually) - <a href="https://turmalina.tcepb.tc.br/turmalina/mapleaf">Turmalina<a> </p>
+<p align="left"/> <a href="https://tce.pb.gov.br/">TCE-PB<a>: Full Stack Web Developer intern (May 2022 - Jun 2023) - <a href="https://turmalina.tcepb.tc.br/turmalina/mapleaf">Turmalina<a> </p>
 
 <hr>
 
