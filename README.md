@@ -19,6 +19,8 @@ I'm <b/>brazilian</b> and was born in <b/>João Pessoa</b>. </p>
   
 <p align="left"/> <a href="https://tce.pb.gov.br/">TCE-PB<a>: Full Stack Web Developer intern (May 2022 - Jun 2023) - <a href="https://turmalina.tcepb.tc.br/turmalina/mapleaf">Turmalina<a> </p>
 
+<p align="left"/> <a href="https://www.sefaz.pb.gov.br/">SEFAZ-PB<a>: Project Manager and Software Engineering intern (Mar 2024 - Now) </p>
+  
 <hr>
 
 ## 🌐 Socials:
