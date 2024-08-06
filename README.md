@@ -13,7 +13,7 @@ I'm <b/>brazilian</b> and was born in <b/>João Pessoa</b>. </p>
 
 <h3 align="center"/> My Carrer </h3>
 
-<p align="left"/> Vice-President at <a href="https://github.com/TailUFPB">TAIL<a> (Technology and Artificial Intelligence League). </p>
+<p align="left"/> Vice-President at <a href="https://tail-tech.com/">TAIL<a> (Technology and Artificial Intelligence League). </p>
   
 <p align="left"/>Researcher at <a href="https://aria.ci.ufpb.br/en/">ARIA<a> (ARtificial Intelligence Applications laboratory). </p>
   
