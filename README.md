@@ -13,13 +13,21 @@ I'm <b/>brazilian</b> and was born in <b/>João Pessoa</b>. </p>
 
 <h3 align="center"/> My Carrer </h3>
 
-<p align="left"/> Vice-President at <a href="https://tail-tech.com/">TAIL<a> (Technology and Artificial Intelligence League). </p>
+<p align="left"/> President at <a href="https://tail-tech.com/">TAIL<a> (Technology and Artificial Intelligence League). </p>
   
 <p align="left"/>Researcher at <a href="https://aria.ci.ufpb.br/en/">ARIA<a> (ARtificial Intelligence Applications laboratory). </p>
   
 <p align="left"/> <a href="https://tce.pb.gov.br/">TCE-PB<a>: Full Stack Web Developer intern (May 2022 - Jun 2023) - <a href="https://turmalina.tcepb.tc.br/turmalina/mapleaf">Turmalina<a> </p>
 
-<p align="left"/> <a href="https://www.sefaz.pb.gov.br/">SEFAZ-PB<a>: Project Manager and Software Engineering intern (Mar 2024 - Now) - <a href="https://www.sefaz.pb.gov.br/announcements/14538-gerencia-de-fiscalizacao-de-mercadoria-em-transito-da-sefaz-pb-realiza-1-operacao-integrada-com-foco-nas-rodovias-do-brejo">CACTO<a> </p>
+<p align="left"/> <a href="https://www.sefaz.pb.gov.br/">SEFAZ-PB<a>: Project Manager and Software Engineering intern (Mar 2024 - July 2025) - <a href="https://www.sefaz.pb.gov.br/announcements/14538-gerencia-de-fiscalizacao-de-mercadoria-em-transito-da-sefaz-pb-realiza-1-operacao-integrada-com-foco-nas-rodovias-do-brejo">CACTO<a> </p>
+
+<p align="left"/> <a href="https://sparringlabs.com/">Sparring<a>: LLMOps intern (July 2024 - Jan 2025) </p>
+
+<p align="left"/> <a href="https://www.zooxsmart.com/">Zoox<a>: Data Scientist Jr. (Jun 2025 - September 2025) </p>
+
+<p align="left"/> <a href="https://dharma-ai.com.br/">Dharma-Ai<a>: Data Scientist Jr. (September 2025 - Now) </p>
+
+
   
 <hr>
 
